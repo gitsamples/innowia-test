@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/innowia-test/static/css/main.cdf59b2d.chunk.css",
+    "main.js": "/innowia-test/static/js/main.0375f714.chunk.js",
+    "main.js.map": "/innowia-test/static/js/main.0375f714.chunk.js.map",
+    "runtime-main.js": "/innowia-test/static/js/runtime-main.f3219e12.js",
+    "runtime-main.js.map": "/innowia-test/static/js/runtime-main.f3219e12.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/innowia-test/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.36acc3ae.chunk.js": "/innowia-test/static/js/2.36acc3ae.chunk.js",
+    "static/js/2.36acc3ae.chunk.js.map": "/innowia-test/static/js/2.36acc3ae.chunk.js.map",
+    "static/js/3.13c29823.chunk.js": "/innowia-test/static/js/3.13c29823.chunk.js",
+    "static/js/3.13c29823.chunk.js.map": "/innowia-test/static/js/3.13c29823.chunk.js.map",
+    "index.html": "/innowia-test/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/innowia-test/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.cdf59b2d.chunk.css.map": "/innowia-test/static/css/main.cdf59b2d.chunk.css.map",
+    "static/js/2.36acc3ae.chunk.js.LICENSE.txt": "/innowia-test/static/js/2.36acc3ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3219e12.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.36acc3ae.chunk.js",
+    "static/css/main.cdf59b2d.chunk.css",
+    "static/js/main.0375f714.chunk.js"
+  ]
+}
