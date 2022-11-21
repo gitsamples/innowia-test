@@ -1,0 +1,7 @@
+.register-form{
+    min-width: 350px;
+}
+.invalid-feedback{
+    margin-top: 0rem;
+    font-size: 0.75em;
+}
